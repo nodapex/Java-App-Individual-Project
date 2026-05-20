@@ -19,14 +19,12 @@ The application includes the following core features:
 - **User Authentication & Authorization** – Supports secure login and role-based access control.
 - **Reporting & Analytics** – Generates parking usage and billing reports.
 
+## 🎥 A Quick Walkthrough Video
+This short video provides a quick walkthrough of the project for those who prefer not to read a long text.
 
-
-# A Quick Walkthrough Video
-This short video provides a quick walkthrough of the project for those who prefer not to read a long text. 
-
-## 🎥 Project Demo Video
-
-[![Watch Demo](images/demo-thumbnail.png)](https://drive.google.com/file/d/1Qb4QmupXRD4hTzJZ8SlnoN01ZeEI6zYD/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1Qb4QmupXRD4hTzJZ8SlnoN01ZeEI6zYD/view?usp=sharing" target="_blank">
+  <img src="images/demo-thumbnail.png" alt="Watch Demo" />
+</a>
 
 
 # System Design

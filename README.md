@@ -5,7 +5,7 @@ The **Car Parking Management System** is an individual Java application project 
 
 The system is designed to efficiently manage parking operations by simplifying parking slot booking, vehicle check-in/check-out, billing management, and parking status monitoring. It aims to provide a well-organized and user-friendly parking experience for both administrators and vehicle owners.
 
----
+
 
 # Features
 
@@ -19,13 +19,15 @@ The application includes the following core features:
 - **User Authentication & Authorization** – Supports secure login and role-based access control.
 - **Reporting & Analytics** – Generates parking usage and billing reports.
 
----
+
 
 # A Quick Walkthrough Video
 This short video provides a quick walkthrough of the project for those who prefer not to read a long text. 
 
-[Quick Intro.mp4](images/Quick%20Intro.mp4)
----
+## 🎥 Project Demo Video
+
+[![Watch Demo](images/demo-thumbnail.png)](https://drive.google.com/file/d/1Qb4QmupXRD4hTzJZ8SlnoN01ZeEI6zYD/view?usp=sharing)
+
 
 # System Design
 
@@ -33,37 +35,37 @@ This short video provides a quick walkthrough of the project for those who prefe
 
 ![Use Case Diagram](images/use_case_diagram.png)
 
----
+
 
 ## Class Diagram
 
 ![Class Diagram](images/class_diagram.png)
 
----
+
 
 ## Entity Relationship Diagram (ERD)
 
 ![ERD](images/entity_relationship_diagram.png)
 
----
+
 
 ## Activity Diagram
 
 ![Activity Diagram](images/activity_diagram.png)
 
----
+
 
 ## Sequence Diagram – Login Process
 
 ![Sequence Diagram Login](images/sequence_diagram_login.png)
 
----
+
 
 ## Sequence Diagram – Parking Booking Process
 
 ![Sequence Diagram Booking](images/sequence_diagram_booking.png)
 
----
+
 
 # Technologies & Concepts Used
 
@@ -87,7 +89,7 @@ This short video provides a quick walkthrough of the project for those who prefe
 - IntelliJ IDEA
 - NetBeans
 
----
+
 
 # Functional Requirements
 
@@ -120,7 +122,7 @@ This short video provides a quick walkthrough of the project for those who prefe
 - Generate parking slot usage reports.
 - Generate billing reports containing parking duration and fee details.
 
----
+
 
 # Non-Functional Requirements
 
@@ -145,7 +147,7 @@ This short video provides a quick walkthrough of the project for those who prefe
 - The system should be available 24/7 with minimal downtime.
 - Data integrity should be maintained at all times.
 
----
+
 
 # System Requirements
 
@@ -165,7 +167,7 @@ https://coderslegacy.com/java/introduction-to-javafx/
 - Minimum 500MB Storage Space
 - Windows / Linux / macOS
 
----
+
 
 # Sample Menu
 
@@ -177,7 +179,7 @@ https://coderslegacy.com/java/introduction-to-javafx/
 5. Exit
 ```
 
----
+
 
 # Sample Parking Status Report
 
@@ -193,7 +195,7 @@ Slot ID | License Plate No | Status   | Check-in | Check-out
 -----------------------------------------------------------
 ```
 
----
+
 
 # Sample Billing Report
 
@@ -208,7 +210,7 @@ Ticket ID | License Plate | Check-in | Check-out | Duration | Total Fee
 ----------------------------------------------------------------------------
 ```
 
----
+
 
 # Project Goals
 
@@ -220,7 +222,7 @@ The main goals of this project are to:
 - Build a scalable and maintainable parking management solution.
 - Improve user experience through efficient parking operations.
 
----
+
 
 # Future Improvements
 
@@ -234,8 +236,8 @@ Potential future enhancements include:
 - Real-time notifications and alerts
 - Vehicle history tracking
 
----
+
 
 # Author
 
-Developed as an individual Java/Spring Boot learning project focused on applying software engineering principles and building practical management solutions.
+Developed by Paul Akinpelu as an individual Java/Spring Boot learning project focused on applying software engineering principles and building practical management solutions.
